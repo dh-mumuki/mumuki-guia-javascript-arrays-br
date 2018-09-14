@@ -2,7 +2,7 @@ Se você pedir por um elemento em uma posição que seja igual ou maior que o ta
 
 Então você está avisado: não exagere!
 
-> Tendo isso em mente, há um desafio: eu escrevi novamente a função “medalhaDeAcordoComPosto”, mas desta vez usando apenas o máximo de um “if” apenas. Talvez os arrays possam ser úteis aqui: wink:.
+> Tendo isso em mente, há um desafio: eu escrevi novamente a função “medalhaDeAcordoComPosto”, mas desta vez usando apenas o máximo de um “if” apenas. Talvez os arrays possam ser úteis aqui:wink:.
 >
 > Ah, lembramos da função: você tem que devolver a medalha que corresponde às primeiras posições de uma competição:
 >

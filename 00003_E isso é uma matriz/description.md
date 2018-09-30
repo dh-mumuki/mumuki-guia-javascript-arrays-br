@@ -8,12 +8,13 @@ Por exemplo: “[" hello "," world "]” não é o mesmo que “[" world "," hel
 
 Tente as seguintes consultas no console:
 >
-> * `arraysIguais ([" olá "," mundo "], [" mundo "," olá "])`
-> * `arraysIguais ([" olá "," mundo "], [" olá "," mundo "])`
-> * `arraysIguais ([" olá "," mundo "], [" olá "," tudo "," o "," mundo "])`
-> * `arraysIguais ([" olá "], [" olá "," mundo "])`
-> * `[" olá "," mundo "] === [" mundo "," olá "] pessoas`
-> * `[" mara "," juliano "] === pessoas`
+> * `arraysIguais(["olá", "mundo"], ["mundo", "olá"])`
+> * `arraysIguais(["olá", "mundo"], ["olá", "mundo"])`
+> * `arraysIguais(["olá", "mundo"], ["olá", "todo", "o", "mundo"])`
+> * `arraysIguais(["olá"], ["olá", "mundo"])`
+> * `["olá", "mundo"] === ["mundo", "olá"]`
+> * `pessoas`
+> * `["mara", "juliana"] === pessoas`
 > * `pessoas === pessoas`
 
 > Que conclusões você pode tirar?

@@ -1,4 +1,4 @@
-var personas = ["mara", "julian"];
+var pessoas = ["mara", "juliana"];
 
 function arraysIguais(unArray, otroArray) {
     if (unArray.length != otroArray.length)

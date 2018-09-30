@@ -5,7 +5,7 @@ Ana, contadora de uma empresa bem conhecida, economiza os lucros de cada mês em
 var lucroUltimoSemestre = [50, -12, 1000, 300, 200, 0];
 ```
 
-E ela acabou de nos perguntar: _ "posso saber o lucro de todo ** um semestre **?"
+E ela acabou de nos perguntar: _"posso saber o lucro de todo **um semestre**?"_
 
 _"Obvio"_, nós dissemos, e escrevemos o seguinte código:
 

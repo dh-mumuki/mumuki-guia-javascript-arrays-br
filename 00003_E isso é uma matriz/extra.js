@@ -1,15 +1,16 @@
-var pessoas = ["mara", "julian"];
+var personas = ["mara", "julian"];
 
-function arraysIguais(umArray, outroArray) {
-if (umArray.length!= outroArray.length)
+function arraysIguais (unArray, otroArray) {
+if (unArray.length! = otroArray.length)
     return false;
-for (var i = 0; i <umArray.length; i ++) {
-    if (umArray [i] instanceOf Array && outroArray[i] instanceOf Array) {
-        if (! arraysIguais(umArray [i], outroArray [i]))
+for (var i = 0; i <unArray.length; i ++) {
+    if (unArray [i] instanceOf Array && otroArray [i] instanceOf Array) {
+        if (! arraysIguais (unArray [i], otroArray [i]))
           return false;
     }
-    else if (umArray [i]! = outroArray[i])
+    else if (unArray [i]! = otroArray [i])
       return false;
 }
 return true;
 }
+

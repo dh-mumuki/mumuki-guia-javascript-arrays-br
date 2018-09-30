@@ -12,5 +12,5 @@ function lucroTotalN(umPeriodo) {
 }
 ```
 
-Quais mudanças são as acumulações (`soma = soma + ...`), precisamos de uma para cada elemento da matriz. Em outras palavras, temos que _visitar_ cada elemento dele, não importa quantos tenha. Mas como fazer isso? Essa ideia de repetir algo muitas vezes não lhe parece familiar?
+Quais mudanças são as acumulativas (`soma = soma + ...`), precisamos de uma para cada elemento da matriz. Em outras palavras, temos que _visitar_ cada elemento dele, não importa quantos tenha. Mas como fazer isso? Essa ideia de repetir algo muitas vezes não lhe parece familiar?
 

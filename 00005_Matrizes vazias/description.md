@@ -1,4 +1,4 @@
-Ótimo, parece que uma matriz pode conter qualquer tipo de elemento! Podemos ter matrizes, números, cadeias de caracteres, matrizes booleanas...
+Ótimo, parece que uma matriz pode conter qualquer tipo de elemento! Podemos ter matrizes, números, cadeias de caracteres, matrizes booleanas, etc.
 
 E não apenas isso, mas eles também podem conter qualquer número de elementos: um, dois, quinze, centenas.
 

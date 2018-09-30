@@ -1,4 +1,4 @@
-_ "Ah, mas isso não acaba aqui" _ - disse Ana - "Eu quero saber em quantos meses houve lucro, ou seja, o saldo foi maior que zero" _.
+_"Ah, mas isso não acaba aqui"_ - disse Ana - "Eu quero saber em quantos meses houve lucro, ou seja, o saldo foi maior que zero" _.
 
 
 > Complete a função `quantidadeDeMesesComLucro`. Se você prestar atenção, notará que tem uma estrutura semelhante ao problema anterior  :sunglasses:

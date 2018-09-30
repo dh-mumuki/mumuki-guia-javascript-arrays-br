@@ -1,6 +1,6 @@
 Agora é a sua vez!
 
-> Escrevi a função “contem” que nos diz se um array contém um determinado elemento.
+> Escreva função “contem” que nos diz se um array contém um determinado elemento.
 >
 > ```javascript
 > ム contem([1, 6, 7, 6], 7)

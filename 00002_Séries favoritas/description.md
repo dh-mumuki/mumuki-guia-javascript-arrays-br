@@ -1,7 +1,8 @@
 Suponha que queremos representar o conjunto de nossas séries favoritas. Como poderíamos fazer isso?
 
 ```javascript
-var seriesFavoritasDeAna = ["Game of Thrones", "Breaking Bad", "House of Cards"];
+var seriesFavoritasDeAna = 
+["Game of Thrones", "Breaking Bad", "House of Cards"];
 var seriesFavoritasDeHector = ["Blindspot", "Blacklist"]
 ```
 

@@ -1,6 +1,6 @@
 Vamos terminar essa sessão com um desafio :muscle:
 
-Queremos escrever uma função “naipeDeTruco”, que dado um naipe, devolva uma lista de strings, uma por cada carta desse naipe seguindo as cartas do truco:
+Queremos escrever uma função `naipeDeTruco`, que dado um naipe, devolva uma lista de strings, uma por cada carta desse naipe seguindo as cartas do truco:
 
 ```javascript
 ム naipeDeTruco("espadas")
@@ -9,4 +9,4 @@ Queremos escrever uma função “naipeDeTruco”, que dado um naipe, devolva um
 
 Lembre-se! As cartas incluem todos os números, com exceção das cartas 8 e 9
 
-> escreva a função “naipeDeTruco”
+> escreva a função `naipeDeTruco`

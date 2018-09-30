@@ -16,4 +16,6 @@ Podemos ter matrizes de números, strings, booleanos, etc. Poderíamos até ter 
 > * `numerosDeLoteria`
 > * `saiuCara`
 > * `[[1, 2, 3], [4, 5, 6]]`
+> * `girosDeDado`
+
 

@@ -1,5 +1,5 @@
 describe("", function() {
-  var naipeDeTruco =  Math.random().toString(36).substring(2);
+  var  =  Math.random().toString(36).substring(2);
 
   it(naipeDeTruco("espadas") NAO deveria conter o "8 de espadas"', function() {
 	assert(naipeDeTruco("espadas").indexOf("8 de espadas") < 0);

@@ -4,9 +4,9 @@ Não havia uma estrutura que vimos anteriormente que nos permitisse repetir uma 
 
 Sim, é o `for`!
 
-E posso pedir que ele repita essa ação para todos os elementos?
+E como posso pedir que ele repita essa ação dinamicamente para todos os elementos?
 
-Se perguntando o `length` para o array!
+Perguntando o `length` para o array!
 
 Exemplo:
 

@@ -1,4 +1,4 @@
-Se você pedir por um elemento em uma posição que seja igual ou maior que o tamanho da matriz, você receberá "indefinido". Não parece uma coisa terrível, mas o problema é que com o indefinido você não pode fazer nada realmente útil.
+Se você pedir por um elemento em uma posição que seja igual ou maior que o tamanho da matriz, você receberá `undefined`. Não parece uma coisa terrível, mas o problema é que com o indefinido você não pode fazer nada realmente útil.
 
 Então você está avisado: não exagere!
 

@@ -1,4 +1,4 @@
-O que acabamos de ver é que podemos facilmente modelar conjuntos de coisas. E isso porque, em JavaScript, temos o tipo de dados _array_, também conhecido como vetor, que acabamos de conhecer.
+O que acabamos de ver é que podemos facilmente modelar conjuntos de coisas. E isso porque em JavaScript, como acabamos de conhecer, temos dados do tipo _array_, também conhecido como vetor.
 
 Matrizes podem ter vários elementos, não há limite!
 

@@ -1,4 +1,4 @@
-Ana, contadora de uma empresa bem conhecida, economiza os lucros de cada mês em uma matriz. Por exemplo, para o último semestre do ano passado registrou o seguinte:
+Ana, contadora de uma empresa bem conhecida, contabiliza os lucros de cada mês em uma matriz. Por exemplo, para o último semestre do ano passado registrou o seguinte:
 
 ```javascript
 //Em julho ganhou $ 50, em agosto perdeu $ 12, etc.
@@ -7,7 +7,7 @@ var lucroUltimoSemestre = [50, -12, 1000, 300, 200, 0];
 
 E ela acabou de nos perguntar: _"posso saber o lucro de todo **um semestre**?"_
 
-_"Obvio"_, nós dissemos, e escrevemos o seguinte código:
+_"Óbvio"_, nós dissemos, e escrevemos o seguinte código:
 
 ```javascript
 function somaLucroSemestre(umSemestre) {

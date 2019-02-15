@@ -9,7 +9,7 @@ function lucroTotal0(umPeriodo) {
 }
 ```
 
-E se eu tivesse exatamente 1 item? Este ... 0 .... mais esse elemento? Exatamente!
+E se eu tivesse exatamente um item? Este ... 0 .... mais esse elemento? Exatamente!
 
 
 ```javascript

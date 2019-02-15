@@ -1,4 +1,4 @@
-Os arrays são muito úteis para conter vários elementos e nos ajudam a consultar quantos elementos eles contêm. Mas há outra coisa: podemos também adicionar elementos a qualquer momento, o que resolvemos usando o método `push`. Novamente, para adicionar um elemento a um array, devemos indicar o array seguido por um '.' e o método `push` com o elemento que queremos adicionar como parâmetro. Por exemplo:
+Os arrays são muito úteis para conter vários elementos e nos ajudam a consultar quantos elementos eles contêm. Mas há outra coisa: podemos também adicionar elementos a qualquer momento, o que resolvemos usando o método `push`. Novamente, para adicionar um elemento a um array, devemos indicar o array seguido por um '.' e o método `push` com o elemento que queremos adicionar entre parenteses. Por exemplo:
 
 
 ```javascript
@@ -13,7 +13,7 @@ Como podemos ver, o “push” adiciona um elemento à lista, o que faz com que 
 Mas em que parte da lista você adiciona? No princípio? Ao final? No meio?
 
 
-> Descubra você mesmo: inspecione o console que itens contêm “pertences”, adicione um “crossbow” e volte para inspecionar “pertences”.
+> Descubra você mesmo: inspecione no console quais itens contêm “pertences”, adicione um “crossbow” e inspecione “pertences” novamente.
 >
-> Ah e, além disso, existe um método “pop”, que não possui parâmetros. Investigue o que faz no console.
+> Ah e, além disso, existe um método “pop”, que não possui parâmetros. Escreva “pertences.pop()” e investigue o que faz no console.
 

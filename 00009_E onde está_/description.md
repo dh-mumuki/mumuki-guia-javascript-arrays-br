@@ -9,7 +9,7 @@ var diasDeTrabalho = ["segunda-feira", "terça-feira", "quarta-feira", "quinta-f
 var umDia = diasDeTrabalho.indexOf ("segunda-feira"); // retorna 0
 ```
 
-Como você pode ver, a “curiosidade” do método "indexOf" é que ele sempre retorna 1 número à menos que o esperado. Será que os criadores de JavaScript estavam errados? o.O
+Como você pode ver, a “curiosidade” do método "indexOf" é que ele sempre retorna um número à menos que o esperado. Será que os criadores de JavaScript estavam errados? o.O
 
 Não, é que em JavaScript, como em muitas linguagens, as posições das matrizes começam em 0: o primeiro elemento é a posição 0, a segunda é a posição 1, a terceira 2 e assim por diante.
 

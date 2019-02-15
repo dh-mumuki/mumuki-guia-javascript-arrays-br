@@ -6,7 +6,7 @@ var seriesFavoritasDeAna =
 var seriesFavoritasDeHector = ["Blindspot", "Blacklist"]
 ```
 
-Como você pode ver, para representar um conjunto de strings, colocamos todas as strings que nos interessam, em colchetes (`[` e `]`) separados por vírgulas. Fácil, certo?
+Como você pode ver, para representar um conjunto (Array) de strings, colocamos todas as strings que nos interessam, em colchetes (`[` e `]`) separados por vírgulas. Fácil, certo?
 
 > Tente as seguintes consultas no console:
 >

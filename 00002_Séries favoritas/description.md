@@ -11,6 +11,6 @@ Como você pode ver, para representar um conjunto (Array) de strings, colocamos 
 > Tente as seguintes consultas no console:
 >
 > * `seriesFavoritasDeAna`
-> * `seriesFavoritasDeHector`
+> * `seriesFavoritasDoHector`
 > * `["olá","mundo!"]`
 > * `["olá","olá"]`

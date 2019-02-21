@@ -15,6 +15,7 @@ Mas em que parte da lista você adiciona? No princípio? Ao final? No meio?
 
 > Crie uma variável do tipo array chamada pertences que contém as strings "espada","escudo","crossbow".
 >
+> Utilize o método push para adicionar a string "cross".
 >
 > Ah e, além disso, existe um método “pop”, que não possui parâmetros. Escreva “pertences.pop()” e investigue o que faz no console.
 

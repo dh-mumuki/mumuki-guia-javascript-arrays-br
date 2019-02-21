@@ -1,4 +1,4 @@
-Mas, podemos apenas criar matrizes de String? E se eu quiser, por exemplo, representar os números de loteria que saíram na semana passada? Ou os rolos sucessivos de um dado? Ou se foi “cara ou coroa” em sucessivos giros de uma moeda?
+Mas, podemos apenas criar matrizes de String? E se eu quiser, por exemplo, representar os números de loteria que saíram na semana passada? Ou os giros sucessivos de um dado? Ou se foi “cara ou coroa” em sucessivos giros de uma moeda?
 
 
 ```javascript

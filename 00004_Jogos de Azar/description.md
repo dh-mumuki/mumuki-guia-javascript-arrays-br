@@ -7,7 +7,7 @@ var girosDeDado = [1, 6, 6, 2, 2, 4];
 var saiuCara = [false, false, true, false];
 ```
 
-Como você pode ver, também podemos representar conjuntos de números ou booleanos da mesma maneira: escrevê-los entre parênteses e separados por vírgulas.
+Como você pode ver, também podemos representar conjuntos de números ou booleanos da mesma maneira: escrevê-los entre colchetes e separados por vírgulas.
 Podemos ter matrizes de números, strings, booleanos, etc. Poderíamos até ter matrizes de matrizes!
 
 

@@ -13,7 +13,8 @@ Como podemos ver, o “push” adiciona um elemento à lista, o que faz com que 
 Mas em que parte da lista você adiciona? No princípio? Ao final? No meio?
 
 
-> Descubra você mesmo: inspecione no console quais itens contêm “pertences”, adicione um “crossbow” e inspecione “pertences” novamente.
+> Crie uma variável do tipo array chamada pertences que contém as strings "espada","escudo","crossbow".
+>
 >
 > Ah e, além disso, existe um método “pop”, que não possui parâmetros. Escreva “pertences.pop()” e investigue o que faz no console.
 

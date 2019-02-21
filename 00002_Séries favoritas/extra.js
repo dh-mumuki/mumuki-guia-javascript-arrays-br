@@ -1,2 +1,2 @@
-var seriesFavoritasDeAna = ["Game of Thrones", "Breaking Bad", "House of Cards"];
-var seriesFavoritasDeHector = ["Blindspot", "Blacklist"];
+var seriesFavoritasDaAna = ["Game of Thrones", "Breaking Bad", "House of Cards"];
+var seriesFavoritasDoHector = ["Blindspot", "Blacklist"];

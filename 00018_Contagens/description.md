@@ -13,6 +13,7 @@ function quantidadeDeMesesComLucro(umPeriodo) {
 	????
   }
   return quantidade;
+}
 ```
 
 

@@ -15,7 +15,7 @@ Não, é que em JavaScript, como em muitas linguagens, as posições das matrize
 
 > E o que acontece se você passar por parâmetro para `indexOf` um elemento que não tem? Descubra você mesmo!
 >
-> Tente o seguinte:
+> Tente o seguinte no console:
 >
 > ```javascript
 > diasDeTrabalho.indexOf ("osvaldo")

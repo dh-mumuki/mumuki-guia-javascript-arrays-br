@@ -38,7 +38,7 @@ E se eu tivesse 3 elementos?
 function lucroTotal3(umPeriodo) {
   var soma = 0;
   soma = soma + umPeriodo[0];
-  soma = soma + unPeriodo[1];
+  soma = soma + umPeriodo[1];
   soma = soma + umPeriodo[2];
   return soma ;
 }

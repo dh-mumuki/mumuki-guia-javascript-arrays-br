@@ -1,5 +1,3 @@
-Você pensou?
-
 A função `somaLucroSemestre` anterior tem dois problemas:
 
 1. É muito repetitiva e tediosa para escrever. Temos que fazer muitas somas à mão!
@@ -10,9 +8,7 @@ A função `somaLucroSemestre` anterior tem dois problemas:
 
 O que gostaríamos é adicionar todos os elementos do array de uma forma genérica, não importa quantos realmente existam: queremos uma função `lucroTotal`, que pode adicionar períodos de qualquer tamanho: semetres, quartos, etc. Que difícil!
 
-> O que? Você acha que isso não pode ser feito? Que pouca confiança!
->
-> Nós já fizemos nossa versão; tente com as seguintes consultas:
+> Nós já fizemos nossa versão; teste com as seguintes consultas:
 >
 >```javascript
 >ム lucroTotal([2, 3])

@@ -1,1 +1,0 @@
-var pertences = ["espada", "escudo", "tocha"];

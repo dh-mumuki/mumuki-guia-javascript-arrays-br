@@ -1,11 +1,11 @@
 describe("", () => {
-  it("contem([1, 6, 7, 6], 7) es true", () => {
+  it("contem([1, 6, 7, 6], 7) é true", () => {
     assert(contem([1, 6, 7, 6], 7));
   })
-  it("contem([1, 6, 7, 6], 6) es true", () => {
+  it("contem([1, 6, 7, 6], 6) é true", () => {
     assert(contem([1, 6, 7, 6], 6));
   })
-  it("contem([], 7) es false", () => {
+  it("contem([], 7) é false", () => {
     assert(!contem([], 7));
   })
   it("contem([8, 5], 7) es false", () => {

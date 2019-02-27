@@ -1,6 +1,6 @@
 Bem, nós conversamos o suficiente; Chegou a hora da ação: :movie_camera:!
 
-> Declarar um procedimento “mover”, que recebe dois arrays, remove o último elemento do primeiro e adiciona-o ao segundo.
+> Declarar uma função chamada “mover”, que recebe dois arrays, remove o último elemento do primeiro e adiciona-o ao segundo.
 >
 > Exemplo:
 >

@@ -1,5 +1,4 @@
 <div style="text-align:center;"> 
-</body>
 
 <p>Convidamos você a assistir ao vídeo a seguir, que informará quais são os arrays e para que são usados.</p>
 
@@ -7,4 +6,3 @@
 
 
 </div>
-<body>

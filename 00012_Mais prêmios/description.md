@@ -2,7 +2,7 @@ Se você pedir por um elemento em uma posição que seja igual ou maior que o ta
 
 Então você está avisado: não exagere!
 
-> Escreva a função “medalhaDeAcordoComPosto”, usando apenas o máximo de um “if” apenas. Talvez os arrays possam ser úteis aqui:wink:.
+> Escreva a função “medalhaDeAcordoComPosto(numero)”, que recebe um número como parâmetro usando apenas o máximo de um “if” apenas. Talvez os arrays possam ser úteis aqui:wink:.
 >
 > Você tem que devolver a medalha que corresponde às primeiras posições de uma competição:
 >
